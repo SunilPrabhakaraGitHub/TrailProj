@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_BJgUUc0LEeirMNIHc-9U_A" label="TrialProj" language="java" technicalLabel="TRIALPROJ" author="_BJgUUs0LEeirMNIHc-9U_A" productVersion="Talend Cloud Data Management Platform-7.0.1.20180712_0921-patch" url="{&quot;location&quot;:&quot;https://github.com/SunilPrabhakaraGitHub/TrailProj.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false"/>
+  <TalendProperties:User xmi:id="_BJgUUs0LEeirMNIHc-9U_A" login="sprabhakara@trial02418.eu.talend.com" firstName="Sunil" lastName="Prabhakara" type="DQ"/>
+</xmi:XMI>
