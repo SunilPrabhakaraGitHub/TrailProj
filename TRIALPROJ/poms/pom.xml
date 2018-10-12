@@ -12,6 +12,7 @@
     <module>code/routines</module>
     <module>jobs/process/trial1_0.1</module>
     <module>jobs/process/trial2_0.1</module>
+    <module>jobs/process/std_dataprepout_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TRIALPROJ</talend.project.name>
