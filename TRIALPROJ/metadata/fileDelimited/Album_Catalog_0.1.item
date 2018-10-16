@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmi:version="2.0">
+  <TalendMetadata:DelimitedFileConnection Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" FilePath="C:/Users/sprabhakara/Downloads/albums.csv" FirstLineCaption="true" HeaderValue="1" RowSeparatorValue="&quot;\n&quot;" Server="Localhost 127.0.0.1" UseHeader="true" dataPackage="_ezAusdEPEei-e8qDrwzDqQ" name="Album_Catalog" xmi:id="_ezAusNEPEei-e8qDrwzDqQ"/>
+  <orgomg.cwm.resource.record:RecordFile dataManager="_ezAusNEPEei-e8qDrwzDqQ" name="default" xmi:id="_ezAusdEPEei-e8qDrwzDqQ">
+    <ownedElement id="_VjaLkNEPEei-e8qDrwzDqQ" label="Album_metadata" xmi:id="_ezAustEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataTable">
+      <feature label="GID" length="-1" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAus9EPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="CODE" length="4" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_Integer" xmi:id="_ezAutNEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Album" length="45" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAutdEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Artist" length="35" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAuttEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Year" length="4" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAut9EPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Genre" length="37" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAuuNEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Source" length="22" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAuudEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+      <feature label="Format" length="5" pattern="&quot;dd-MM-yyyy&quot;" talendType="id_String" xmi:id="_ezAuutEPEei-e8qDrwzDqQ" xsi:type="TalendMetadata:MetadataColumn"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_0f90ccae-9c31-43bc-9fae-c387b4cb0851"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>x4v8arh0CABsFS6d0BYw7SmMSje5wphYQtkhgggtNG3SeUxKOQ9DC1T+V6WgFCluHlCd15iiAQnd
+gNjfsMrNBw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_dbbb72ad-e22b-4228-b5e0-b435db06417a"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>9bxskMrY2NYcIZOobysnpJ1ZtW5sGxi2Wy76VKhREH0I3LjWel3kb0H1fr2IWJzH5FbpmMIH0o4d
+f2FGgjCF2A==</DigestValue></Reference></SignedInfo><SignatureValue>1bi479d9dTq5UOUIvIKvUozEQcUJMeLSmjqxMST0R0mLCRXBNl7Y/LmPjELnWcntqBVAD4RfhJd2
+NspHa48spFoDhCB2Ez684JUhiS122pvAEtQqCSFin4hxSkb+HUR6prFL9RnSdNs7g1f3jD3T0L9v
+JVjAhX4Y8xrAHprd81LPMqvNCkcPvyjtTsb6UNqJJxF+2g2aAxzJaUaIgT3e6AAqfYIZYYf56rvM
+Y8gL/DBT0Oavih8i6gVcWe9zTdpDCj2JOM6QfhTAszdw/55DqO9WJjaIsS9+8/ULBk5AXvRs2iBc
+nqkvNC1paly+NT/959v4pg+XOPs67uxqdqJTWg==</SignatureValue><KeyInfo><X509Data><X509SubjectName>CN=Default code-signing certificate,OU=R&amp;D,O=Talend Inc.,ST=Paris,C=FR</X509SubjectName><X509Certificate>MIIFYzCCA0ugAwIBAgIBATANBgkqhkiG9w0BAQsFADCBjTELMAkGA1UEBhMCRlIxDjAMBgNVBAgM
+BVBhcmlzMQ4wDAYDVQQHDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1Im
+RDEWMBQGA1UEAwwNVGFsZW5kIFImRCBDQTEiMCAGCSqGSIb3DQEJARYTc2VjdXJpdHlAdGFsZW5k
+LmNvbTAeFw0xODAxMTgwMDA2MTJaFw0yMTAxMTcwMDA2MTJaMGwxCzAJBgNVBAYTAkZSMQ4wDAYD
+VQQIDAVQYXJpczEUMBIGA1UECgwLVGFsZW5kIEluYy4xDDAKBgNVBAsMA1ImRDEpMCcGA1UEAwwg
+RGVmYXVsdCBjb2RlLXNpZ25pbmcgY2VydGlmaWNhdGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDiCz1II/o6hDUWu/ygxTCT2o/fYxVzPW23AoONQC/Vuiqh0COyLIgaMTjBPmQdTQFq
+rmM5tD64gi4TEQF+Z3iYt3daLdQUfaW9SzaMlY+XVNz5xnMBVDuiSHJSFE9lKnhgbKAHvOeoJo46
+UgWwb1za0WpRckDtjKcntwEK1orZCgrcIo1nDvFXyB5n0KfpLyktEOa0bSHde50MPbvQeB66XlEb
+lhjfs5S9WnAUja9RgqdwqZoI0ss+x/pjkQygDT8f17MktM21HOtg09lJlhMGJckhgD7jUF5tfYGM
+sv/O27g5CToFhxOnutDtsrDw7AkEQIml8KJp97bQLAFlLnh1AgMBAAGjge0wgeowHQYDVR0OBBYE
+FFzdy6ZfpUX8JwkM/SUrqkwLNqWAMB8GA1UdIwQYMBaAFOd9C3L8tYGZxoAr2SzsgnMytaj3MAsG
+A1UdDwQEAwIHgDATBgNVHSUEDDAKBggrBgEFBQcDAzAJBgNVHRMEAjAAMHsGCWCGSAGG+EIBDQRu
+FmxEZWZhdWx0IHRoaXJkIHBhcnR5IGNvZGUtc2lnbmluZyBjZXJ0aWZpY2F0ZS4gTm8gY29tbWl0
+bWVudCBpcyBtYWRlIG9uIHRoZSBjb250ZW50IHNpZ25lZCBieSB0aGUgdGhpcmQgcGFydHkwDQYJ
+KoZIhvcNAQELBQADggIBAKzYdnzoFgrRtDLSSzWtwuOrGo5+1RPoDHm/1dlbVnB7oZzUwfRGwZT5
+ser0V7OZyt9wWR8iQ2ka30fHWrNAosNtlIkF88s5YZw7OOIMxR+qYA99BnWLa79DZVIuukI2f5qJ
+Cr9nw6Oygo8CWeNMWhtXcvV4gqROhb2QMBrvWBw9QvNK1XMdtPShfWiXwyPzzRKgwqrN2meXtOY3
+S+MXu6u+RUD9EYeElp9M+9Yp+zRySl5/s+0sbvo7qz369dlsw8XhKXT+s4YQQe3Sx14Kg3SDFXKn
+QcVgycaZMOw4YUxOeP2hKOHnNuOMORfu3qlYkN/0RMGjn6r4PU4+yL276TiWI5b8J06y4leng2as
+r3/fbKJ02Ni9kCnkY8wQS1yn45UNl1woSjryza4f4uLKGkrrIsUPXK+Vy4A1Il8XgFfmrtgA8m9s
+EHyu0OyAJH/agWN+GLhF/ssp26oXhiYqTkG4sQtNRFQG0isaYf/JWSt3f8Q+7/pnZpz4mfEAFimI
+BBLzRwDA6x9qqOn0RXxBo9pH16EO3SXPLR64cJum8B/RI/i8H6OkQDO1tEiE6UeceZk++U7fnD3c
+6i9Km85GTgQi6REsVZGIL/tZNIzN//qPwi7cDo3Cf/xmPrIKQhHJaxCqmbjGDmC8AXOaqNfWotVX
+Wy2dcglW62PDszE/HKh9</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_dbbb72ad-e22b-4228-b5e0-b435db06417a" Target="#_0f90ccae-9c31-43bc-9fae-c387b4cb0851"><Timestamp>2018-10-16 06:48:25</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>
