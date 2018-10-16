@@ -15,6 +15,7 @@
     <module>jobs/process/std_dataprepout_0.1</module>
     <module>jobs/process/createresolutiontask_0.1</module>
     <module>jobs/process/creategroupingtasks_0.1</module>
+    <module>jobs/process/createmergetaks_0.1</module>
   </modules>
   <properties>
     <talend.project.name>TRIALPROJ</talend.project.name>
